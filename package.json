@@ -1,5 +1,6 @@
 {
-  "name": "dt-backend-project3",
+  "name": "deepthought-event-management",
+  "description": "DeepThought Event Management is a web application that provides an API for managing events. This application includes functionalities for creating, retrieving, updating, and deleting events. The project is structured into a backend service and a frontend interface.",
   "version": "1.0.0",
   "main": "backend/index.js",
   "scripts": {
